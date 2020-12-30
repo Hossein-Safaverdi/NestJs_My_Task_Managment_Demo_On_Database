@@ -5,7 +5,7 @@ export const typeOrmConfig: TypeOrmModuleOptions = {
     host: 'localhost',
     port: 5432,
     username: 'postgres',
-    password: 'postgres',
+    password: '123456',
     database: 'NEST_Task_Managment',
     autoLoadEntities: true,
     synchronize: true,
